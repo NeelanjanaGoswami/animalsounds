@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Bebas Neue', cursive; 
+    font-family: 'Edu SA Beginner', cursive;
+    background-color: aliceblue; 
+}
+
+#header_div {
+    background-color: aliceblue;
+    color:darkblue;
+}
+
+#note {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+button {
+    font-style: italic;
+    margin-top: 15px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+}
